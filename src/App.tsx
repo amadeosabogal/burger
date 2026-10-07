@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { ShoppingCart, Search, User, CheckCircle2, Heart, Star, ChevronLeft, ChevronRight, Flame, Leaf, Users, Utensils, Menu } from 'lucide-react';
 
 function App() {
